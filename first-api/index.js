@@ -35,9 +35,6 @@ function Routes(request, response) {
 
 }
 
-//para casa: criar uma rota de criação criando um novo objeto aluno com ID alea´torio, nome e idade
-
-
 const server = http.createServer(Routes)
 
 server.listen(3000, () => console.log("!Servidor caiu, imbecil"))
