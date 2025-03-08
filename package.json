@@ -1,0 +1,12 @@
+{
+  "name": "aula-29",
+  "version": "1.0.0",
+  "description": "O backend é a parte do desenvolvimento web responsável por gerenciar a lógica de negócios, banco de dados e comunicação entre o servidor e o frontend. No Node.js, isso é feito utilizando JavaScript no lado do servidor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
